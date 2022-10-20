@@ -1,8 +1,8 @@
 .container{
     margin-right: auto;
     margin-left: auto;
-    width: 600px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     outline: 1px solid green;
 }
 .box{
@@ -24,16 +24,16 @@
         top: 0;
     }
     25%{
-        top: 200px;
+        top: 75px;
         left: 0;
     }
     50%{
-        top: 200px;
-        left: 500px;
+        top: 75px;
+        left: 90px;
     }
     75%{
         top: 0;
-        left: 500px;
+        left: 90px;
     }
     100%{
         left: 0;
